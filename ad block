@@ -1,0 +1,47 @@
+[Adblock Plus 2.0]
+! Version: 202206261102
+! Title: Dictator List
+! Last modified: 26 Jun 2022 11:02 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! !
+! Please report any unblocked adverts or problems
+! in the forums 
+! or via e-mail (baqiatolah@tuta.io).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+||offsethumorous.com^
+||g-ads.org^
+||beloved.marketing^
+||dayanaffiliate.com^
+||www.sabavision.com^
+||dmboard.media^
+||raysan.ir^
+||idelandstu.ir^
+||modireweb.com^
+||www.irandnn.ir^
+||adminesite.com^
+||dmtaban.com^
+||ompfinex.com^
+||sanjagh.com^
+||smartadsmarket.ir^
+||yektanet.com^
+||www.smarttabligh.com^
+||simagar.com^
+||tapsell.ir^
+||vdigimarketing.com^
+||rtr.co.ir^
+||www.adivery.com^
+||chikav.ir^
+||www.alishweb.com^
+||www.smarttabligh.com^
+||viral.ir^
+||www.smarttabligh.com^
+||tabligheirani.ir^
+||chikav.ir^
+||http://surelyconvinced.com/
+! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
