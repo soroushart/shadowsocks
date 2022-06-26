@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
 ! Version: 202206261102
 ! Title: Dictator List
-! Last modified: 26 Jun 2022 11:02 UTC
-! Expires: 4 days (update frequency)
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
+! Last modified: 26 Jun 2022 13:02 UTC
+! Expires: 10 days (update frequency)
+! Homepage: https://github.com/soroushart
+! Licence: https://raw.githubusercontent.com/soroushart/shadowsocks/main/LICENSE
 ! !
 ! Please report any unblocked adverts or problems
 ! in the forums 
 ! or via e-mail (baqiatolah@tuta.io).
-! GitHub issues: https://github.com/easylist/easylist/issues
-! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! GitHub issues: 
+! GitHub pull requests: 
 ! 
 ! -----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
+! *** https://raw.githubusercontent.com/soroushart/shadowsocks/main/ad%20block.txt ***
 ||offsethumorous.com^
 ||g-ads.org^
 ||beloved.marketing^
@@ -44,4 +44,4 @@
 ||tabligheirani.ir^
 ||chikav.ir^
 ||http://surelyconvinced.com/
-! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
+! ***  ***
