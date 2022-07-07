@@ -14,6 +14,7 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** https://raw.githubusercontent.com/soroushart/shadowsocks/main/ad%20block.txt ***
+! *** easylist:easylist/easylist_general_block.txt ***
 ||offsethumorous.com^
 ||g-ads.org^
 ||beloved.marketing^
@@ -28,6 +29,7 @@
 ||dmtaban.com^
 ||ompfinex.com^
 ||sanjagh.com^
+||http://understoodreceivermisunderstand.com^
 ||smartadsmarket.ir^
 ||yektanet.com^
 ||www.smarttabligh.com^
@@ -43,5 +45,6 @@
 ||www.smarttabligh.com^
 ||tabligheirani.ir^
 ||chikav.ir^
+||http://accordaudienceeducational.com^
 ||http://surelyconvinced.com/
-! ***  ***
+! *** IranList:IranList/ ***
