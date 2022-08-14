@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206261102
+! Version: 202208141102
 ! Title: Dictator List
-! Last modified: 08 July 2022 13:02 UTC
+! Last modified: 14 Agust 2022 20:02 UTC
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/soroushart
 ! Licence: https://raw.githubusercontent.com/soroushart/shadowsocks/main/LICENSE
@@ -14,7 +14,8 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** https://raw.githubusercontent.com/soroushart/shadowsocks/main/ad%20block.txt ***
-! *** easylist:easylist/easylist_general_block.txt ***
+! ******
+||offsethumorous.com^
 ||offsethumorous.com^
 ||g-ads.org^
 ||beloved.marketing^
@@ -35,6 +36,7 @@
 ||www.smarttabligh.com^
 ||simagar.com^
 ||tapsell.ir^
+||platitudezeal.com^
 ||vdigimarketing.com^
 ||rtr.co.ir^
 ||www.adivery.com^
@@ -45,6 +47,9 @@
 ||www.smarttabligh.com^
 ||tabligheirani.ir^
 ||chikav.ir^
-||http://accordaudienceeducational.com^
-||http://surelyconvinced.com/
+||crumbtypewriterhome.com^
+||accordaudienceeducational.com^
+||surelyconvinced.com^
+||migrantspiteconnecting.com^
+||crumbtypewriterhome.com^
 ! *** IranList:IranList/ ***
