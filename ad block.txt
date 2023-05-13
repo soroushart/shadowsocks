@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202210271110
+! Version: 202305141110
 ! Title: Dictator List
-! Last modified: 27 October 2022 20:02 UTC
+! Last modified: 14 May 2023 20:02 UTC
 ! Expires: 20 days (update frequency)
 ! Homepage: https://github.com/soroushart
 ! Licence: https://raw.githubusercontent.com/soroushart/shadowsocks/main/LICENSE
