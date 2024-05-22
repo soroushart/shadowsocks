@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2024052151110
+! Version: 2024052351110
 ! Title: Dictator List
-! Last modified: 21 May 2024 20:02 UTC
+! Last modified: 23 May 2024 20:02 UTC
 ! Expires: 100 days (update frequency)
 ! Homepage: https://github.com/soroushart
 ! Licence: https://raw.githubusercontent.com/soroushart/shadowsocks/main/LICENSE
@@ -54,4 +54,5 @@
 ||surelyconvinced.com^
 ||migrantspiteconnecting.com^
 ||crumbtypewriterhome.com^
+||popzar.ir^
 ! *** IranList:IranList/ ***
